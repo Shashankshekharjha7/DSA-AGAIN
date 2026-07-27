@@ -1,0 +1,14 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+
+void printPattern(int n){
+  //outer loop to handle rows
+  for(int i = 1; i<=n; i++){
+    
+    //inner loop to handle columns
+    for(int j = 1; j<=i; j++){
+      cout << "*"
+    }
+  }
+}
