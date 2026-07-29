@@ -1,0 +1,11 @@
+#include<bits/stdc++.h>
+
+using namespace std;
+
+void printPattern(int n){
+  for(int i = 1; i<=n ; i++){
+    for(int j = n-i; j--){
+      for(int j = 1; j<=i; j++)
+    }
+  }
+}
